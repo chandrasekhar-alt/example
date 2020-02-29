@@ -1,6 +1,7 @@
 <?php include "header.php";
 //include "session.php";
 //session_start();
+//echo 'ss';
 include "left-navbar.php";
 $name= $_SESSION['username'];                
 
